@@ -1,5 +1,3 @@
-#!/bin/sh
-
 if [ $# -lt 2 ]; then
     echo "Usage: $0 <compile|run|build> <name>"
     exit 1
