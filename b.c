@@ -1,7 +1,7 @@
 #!/bin/sh
 asd
 dfghfsd2
-dfghfsd34
+dfghfsd345
 if [ $# -lt 2 ]; then
     echo "Usage: $0 <compile|run|build> <name>"
     exit 1
